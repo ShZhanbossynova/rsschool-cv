@@ -4,7 +4,7 @@
 ### Contact information
 Phone: +7(939)380-29-59 \
 E-mail: sk.zhanbossynova@gmail.com \
-Telegram: @szhanbosynova \
+Telegram: @szhanbosynova 
 
 ***
 
@@ -58,7 +58,10 @@ I can highlight my qualities like:
 
 ### Courses
 + RS-School course «JavaScript/Front-end. Stage 0» (in progress)
-+ Loft-school courses: [Website layout basics](https://loftschool.com/diploma/GD1700162256/en/pdf), [Web development for beginners](https://loftschool.com/diploma/LS1700162256/en/pdf), [Integrated trainig on JS](https://loftschool.com/diploma/LH1700162256/en/pdf)
++ Loft-school courses: 
+    + [Website layout basics](https://loftschool.com/diploma/GD1700162256/en/pdf) 
+    + [Web development for beginners](https://loftschool.com/diploma/LS1700162256/en/pdf) 
+    + [Integrated trainig on JS](https://loftschool.com/diploma/LH1700162256/en/pdf)
 
 ***
 
