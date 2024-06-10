@@ -2,14 +2,14 @@
 ## Junior frontend developer
 ***
 ### Contact information
-Phone: +7(939)380-29-59
-E-mail: sk.zhanbossynova@gmail.com
-Telegram: @szhanbosynova
+Phone: +7(939)380-29-59 \
+E-mail: sk.zhanbossynova@gmail.com \
+Telegram: @szhanbosynova \
 
 ***
 
 ### About me
-I'm currently a researcher at the Kazan Federal University. I think not everyone can be a scientist, cause you never stop learning new things and answer new questions. That's why I'm always on the way of self-development: this course isn't an exception. In spite of all the advantages, my work cannot provide me all the possibilities I need, like mobility. One of my ams is not to be tied to a certain place, my soul demands freedom and new culture-experience, what I can afford at an online-job. 
+I'm currently a researcher at the Kazan Federal University. I think not everyone can be a scientist, cause you never stop learning new things and answer new questions. That's why I'm always on the way of self-development: this course isn't an exception. In spite of all the advantages, my work cannot provide me all the possibilities I need, like mobility. One of my aims is not to be tied to a certain place, my soul demands freedom and new culture-experience, what I can afford at an online-job. 
 I can highlight my qualities like: 
 + on-the-fly self-learning
 + determination 
@@ -50,7 +50,9 @@ I can highlight my qualities like:
 ```
 ***
 
-[My first work during learning HTML & CSS basics](https://shzhanbossynova.github.io/Air-Asia/welcomepage)
+### Projects
++ [My first project during learning HTML & CSS basics](https://shzhanbossynova.github.io/Air-Asia/welcomepage)
++ [2nd project(in progress)](https://shzhanbossynova.github.io/SurfBoard/)
 
 ***
 
